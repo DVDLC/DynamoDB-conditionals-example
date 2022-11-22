@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "aws-sdk": "2.1259.0",
+    "uuid": "^9.0.0"
+  },
+  "name": "07-dynamodb",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

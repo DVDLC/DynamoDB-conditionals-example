@@ -1,0 +1,9 @@
+{
+    "pathParameters": {
+        "userId": "29d387fc-1128-49a5-a829-aac18431298a"
+    },
+    "body": {
+        "amount": 100,
+        "operator": true
+    }
+}

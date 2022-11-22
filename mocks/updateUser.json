@@ -1,0 +1,11 @@
+{
+    "pathParameters": {
+        "userId": "9714bc47-48ac-4d15-a8de-80cc48258aa8"
+    },
+    "body": {
+        "firstName": "David",
+        "lastName": "Smith",
+        "email": "example@test.com",
+        "rewardBalance" : 100
+    }
+}

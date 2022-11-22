@@ -1,0 +1,8 @@
+{
+    "body": {
+        "firstName": "David",
+        "lastName": "Cisneros",
+        "email": "test@test.com",
+        "rewardBalance": 100
+    }
+}
